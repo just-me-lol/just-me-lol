@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mariachi.muchicho@gmail.com**
 
-- ⚡ Fun fact I love maths and chess.
+- ⚡ Fun fact **I love maths and chess.**
 
 ## 🚀 Languages and Tools:
 
