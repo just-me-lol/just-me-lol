@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faboulous Dust</h1>
 <h3 align="center">I'm a teen who enjoys gaming and math</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15633275-Workspace?utm_source=Clipboard_Shot&utm_campaign=mernaz_ze&utm_content=Workspace&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mernaz_ze&utm_content=Workspace&utm_medium=Social_Share">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just-me-lol&label=Profile%20views&color=0e75b6&style=flat" alt="just-me-lol" /> </p>
