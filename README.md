@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/OoEiFw6" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/gallery/OoEiFw6" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faboulous Dust</h1>
 <h3 align="center">I'm a teen who enjoys Games and Math.</h3>
