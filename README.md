@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsdutch_" target="blank"><img src="https://img.shields.io/twitter/follow/itsdutch_?logo=twitter&style=for-the-badge" alt="itsdutch_" /></a> </p>
 
-- 🔭 I’m currently working on **a discord NFT advertising server**
+- 🔭 I’m currently working on **a discord bot**
 
 - 🌱 I’m currently learning **League of Legends**
 
